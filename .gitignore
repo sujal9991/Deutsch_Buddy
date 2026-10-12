@@ -48,3 +48,6 @@ app.*.map.json
 .widget_preview/
 
 /config/dev.json
+
+# Android Gradle cache
+android/.gradle/
